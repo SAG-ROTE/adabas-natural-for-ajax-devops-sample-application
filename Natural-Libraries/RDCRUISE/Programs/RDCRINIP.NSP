@@ -48,7 +48,7 @@ EXPAND ARRAY G-MENUITEM TO (1:7)
 DECIDE ON FIRST VALUE OF G-LANGUAGE 
   VALUE  2    /* german
     MOVE 'Home123'            TO G-MENUITEM (1)   
-    MOVE 'Reiseangebote'   TO G-MENUITEM (2)
+    MOVE 'Angebote123'   TO G-MENUITEM (2)
     MOVE 'Inselfavoriten'  TO G-MENUITEM (3)
     MOVE 'Alle Reisen'     TO G-MENUITEM (4)
     MOVE '?'               TO G-MENUITEM (5)
